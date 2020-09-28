@@ -1,0 +1,25 @@
+{
+    "info": {
+        "phaseNumber": "1",
+        "vaRating": "6000",
+        "fwVersion": "00.01.0001",
+        "modelName": "ES 6096s UK",
+        "manufacturer": "EATON",
+        "serialNumber": "RB76H39016",
+        "nominalPv": "360.0"
+    },
+    "bms": {
+        "info": {
+            "modelType": "C",
+            "fwVersion": "1619",
+            "serialNumber": "66"
+        },
+        "data": {
+            "highestCellVoltage": "3844.5",
+            "lowestCellVoltage": "3840",
+            "sysMaxTemperature": "32.5",
+            "sysAvgTemperature": "30.6",
+            "sysMinTemperature": "28.6"
+        }
+    }
+}

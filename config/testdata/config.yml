@@ -1,0 +1,5 @@
+name: "config_file"
+path: "ttySP0"
+datafilepath: "files/datafile"
+protocol: "INVERTER"
+baudrate: 1200
